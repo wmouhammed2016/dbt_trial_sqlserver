@@ -1,0 +1,10 @@
+# ignore venv
+.venv-dbt
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore profiles
+profiles.yml
+.user.yml
